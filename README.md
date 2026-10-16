@@ -1,12 +1,9 @@
-![Hacker Banner](assets/hacker-banner.png)
 
-<!-- ===================================================== -->
-<!-- THEEMCOOL | BLACKOUT TERMINAL                         -->
-<!-- ===================================================== -->
+![Hacker Banner](assets/hacker-banner.png)
 
 <div align="center">
 
-<img width="100%" alt="Theemcool - Think, Build, Improve, Repeat" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:030605,35:003B29,70:006B4B,100:00FF88&text=THEEMCOOL&fontSize=66&fontColor=E8FFF4&fontAlignY=36&desc=THINK%20%2F%2F%20BUILD%20%2F%2F%20IMPROVE%20%2F%2F%20REPEAT&descAlignY=58&descSize=15&animation=fadeIn"/>
+<img width="100%" alt="THEEMCOOL — Think, Build, Improve, Repeat" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:030605,35:003B29,70:006B4B,100:00FF88&text=THEEMCOOL&fontSize=66&fontColor=E8FFF4&fontAlignY=36&desc=THINK%20%2F%2F%20BUILD%20%2F%2F%20IMPROVE%20%2F%2F%20REPEAT&descAlignY=58&descSize=15"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=650&height=45&lines=%3E+Welcome+to+my+digital+workspace...;%3E+Software+Engineering+%7C+AI+%7C+Web;%3E+Learning+by+building+real+projects;%3E+Not+just+a+developer.+A+problem+solver." alt="Animated developer introduction"/>
 
@@ -20,7 +17,7 @@
 
 <a href="https://theemcool.github.io/Portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-00FF88?style=flat-square&labelColor=030605" alt="Portfolio"/></a>
 <a href="https://github.com/theemcool?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-00D9FF?style=flat-square&labelColor=030605" alt="Repositories"/></a>
-<a href="https://linkedin.com/in/humphrey-nandwa-966670439"><img src="https://img.shields.io/badge/LINKEDIN-LET'S_CONNECT-00FF88?style=flat-square&labelColor=030605" alt="LinkedIn"/></a>
+<a href="https://linkedin.com/in/humphrey-nandwa-966670439"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00FF88?style=flat-square&labelColor=030605" alt="LinkedIn"/></a>
 <a href="mailto:nandwah7@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SAY_HELLO-00D9FF?style=flat-square&labelColor=030605" alt="Email"/></a>
 
 </div>
@@ -31,56 +28,42 @@
 <tr>
 <td width="36%" valign="top">
 
-<h3>◈ // A LITTLE ABOUT ME</h3>
+<h3>◈ // ABOUT ME</h3>
 
-Hey, I'm <strong>Humphrey Nandwa</strong>, also known as <code>theemcool</code>.
+Hey, I'm **Humphrey Nandwa** — also known as `theemcool`.
 
-I'm studying Computer Science at the Cooperative University of Kenya and training in Software Engineering at Moringa School.
+I'm a Computer Science undergraduate at the Cooperative University of Kenya and a Software Engineering trainee at Moringa School.
 
-I enjoy figuring out how things work, building applications, and turning ideas into something people can actually use.
-
-I'm still learning, experimenting, and improving with every project.
-
-<br/>
+I enjoy building things, solving problems, and learning how technology can make everyday tasks easier. Most of my learning happens by experimenting with code and working on practical projects.
 
 <h3>◈ // EDUCATION</h3>
 
-<strong>Cooperative University of Kenya</strong>
-
-<br/>
+**Cooperative University of Kenya**
 
 BSc Computer Science
 
-<br/><br/>
+**Moringa School**
 
-<strong>Moringa School</strong>
+Software Engineering training focused on programming and practical software development.
 
-<br/>
+<h3>◈ // INTERESTS</h3>
 
-Software Engineering training, with practical work in application development and programming.
+`AI & Machine Learning`
 
-<br/>
+`Web Development`
 
-<h3>◈ // WHAT I'M INTO</h3>
+`Cloud Engineering`
 
-<code>AI & Machine Learning</code>
+`Cybersecurity`
 
-<code>Web Development</code>
+`UI/UX Design`
 
-<code>Cloud Engineering</code>
+<h3>◈ // CONNECT</h3>
 
-<code>Cybersecurity</code>
-
-<code>UI/UX Design</code>
-
-<br/>
-
-<h3>◈ // FIND ME</h3>
-
-<a href="https://github.com/theemcool">GitHub</a><br/>
-<a href="https://theemcool.github.io/Portfolio/">Portfolio</a><br/>
-<a href="https://linkedin.com/in/humphrey-nandwa-966670439">LinkedIn</a><br/>
-<a href="mailto:nandwah7@gmail.com">Email</a>
+- [GitHub](https://github.com/theemcool)
+- [Portfolio](https://theemcool.github.io/Portfolio/)
+- [LinkedIn](https://linkedin.com/in/humphrey-nandwa-966670439)
+- [Email](mailto:nandwah7@gmail.com)
 
 </td>
 <td width="64%" valign="top">
@@ -110,27 +93,21 @@ Software Engineering training, with practical work in application development an
 
 <h3>⌘ // TECH STACK</h3>
 
-<strong>Languages & Databases</strong><br/>
+**Languages & Databases**
 
 <img src="https://skillicons.dev/icons?i=python,js,cs,mysql&theme=dark" alt="Python, JavaScript, C sharp and MySQL"/>
 
-<br/>
-
-<strong>Web Development</strong><br/>
+**Web Development**
 
 <img src="https://skillicons.dev/icons?i=react,vite,flask,html,css&theme=dark" alt="React, Vite, Flask, HTML and CSS"/>
 
-<br/>
-
-<strong>Tools I Work With</strong><br/>
+**Developer Tools**
 
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" alt="Git, GitHub, Linux and VS Code"/>
 
-<br/>
+<h3>⌁ // MY APPROACH</h3>
 
-<h3>⌁ // HOW I APPROACH DEVELOPMENT</h3>
-
-I like learning through hands-on projects. Whether I'm working on a REST API, a web interface, or a new idea, I try to understand the problem first and improve the solution as I go.
+I believe the best way to learn software development is to build things, make mistakes, figure out what went wrong, and try again. Every project gives me a chance to improve.
 
 </td>
 </tr>
@@ -142,7 +119,7 @@ I like learning through hands-on projects. Whether I'm working on a REST API, a 
 
 <h2> // PROJECT_DATABASE </h2>
 
-<em>A few things I've been learning and building along the way.</em>
+<em>Projects I've worked on, explored, or used to practise new skills.</em>
 
 </div>
 
@@ -152,34 +129,26 @@ I like learning through hands-on projects. Whether I'm working on a REST API, a 
 
 <h3>◈ ElimuAI</h3>
 
-<strong>Making learning more accessible</strong>
+**AI-powered learning**
 
-An EdTech concept exploring how AI could help students access explanations, study resources, and learning support at an affordable cost.
+An EdTech concept exploring how AI can help students access explanations, study materials, and affordable learning support.
 
-<br/><br/>
+`AI` `EdTech` `Education`
 
-<code>AI</code> <code>EdTech</code> <code>Learning</code>
-
-<br/><br/>
-
-<a href="https://github.com/theemcool?tab=repositories">Explore my repositories →</a>
+[Explore my repositories →](https://github.com/theemcool?tab=repositories)
 
 </td>
 <td width="50%" valign="top">
 
 <h3>◈ Wordly</h3>
 
-<strong>A dictionary application</strong>
+**Dictionary application**
 
-A project focused on helping users explore word meanings and build their vocabulary.
+A project focused on word meanings and vocabulary, built as part of my journey into application development.
 
-<br/><br/>
+`Application` `Learning`
 
-<code>Application</code> <code>Learning</code>
-
-<br/><br/>
-
-<a href="https://github.com/hum2006/wordly">View repository →</a>
+[View source code →](https://github.com/hum2006/wordly)
 
 </td>
 </tr>
@@ -188,34 +157,26 @@ A project focused on helping users explore word meanings and build their vocabul
 
 <h3>◈ E-Commerce Admin Portal</h3>
 
-<strong>Managing e-commerce workflows</strong>
+**E-commerce dashboard**
 
-A collaborative React dashboard project focused on administration and e-commerce management workflows.
+A collaborative React project focused on administrative tools and e-commerce management workflows.
 
-<br/><br/>
+`React` `JavaScript` `Dashboard`
 
-<code>React</code> <code>JavaScript</code> <code>Dashboard</code>
-
-<br/><br/>
-
-<a href="https://github.com/darktotem/e-commerce-administrator-portal">View repository →</a>
+[View repository →](https://github.com/darktotem/e-commerce-administrator-portal)
 
 </td>
 <td width="50%" valign="top">
 
 <h3>◈ Inventory Management System</h3>
 
-<strong>Learning backend development</strong>
+**Flask REST API**
 
-A Python and Flask project covering REST API endpoints, inventory operations, JSON file storage, external API integration, and testing.
+A Python project for practising inventory operations, API endpoints, JSON storage, external API integration, and automated testing.
 
-<br/><br/>
+`Python` `Flask` `REST API`
 
-<code>Python</code> <code>Flask</code> <code>REST API</code>
-
-<br/><br/>
-
-<a href="https://github.com/theemcool?tab=repositories">Find it in my repositories →</a>
+[Browse my repositories →](https://github.com/theemcool?tab=repositories)
 
 </td>
 </tr>
@@ -224,30 +185,24 @@ A Python and Flask project covering REST API endpoints, inventory operations, JS
 
 <h3>◈ Airline Management System</h3>
 
-<strong>Working with C# and databases</strong>
+**Application development with C#**
 
-A project involving passenger workflows and database integration, helping me practise application logic and data management.
+A project involving passenger workflows and database integration.
 
-<br/><br/>
-
-<code>C#</code> <code>Database</code>
+`C#` `Database`
 
 </td>
 <td width="50%" valign="top">
 
 <h3>◈ Personal Portfolio</h3>
 
-<strong>My corner of the internet</strong>
+**My work, in one place**
 
-A personal website where I showcase my work, skills, interests, and progress as a developer.
+A personal website where I share my projects, skills, and progress as a developer.
 
-<br/><br/>
+`Frontend` `Web Design`
 
-<code>Web Development</code> <code>Design</code>
-
-<br/><br/>
-
-<a href="https://theemcool.github.io/Portfolio/">Visit my portfolio →</a>
+[Visit portfolio →](https://theemcool.github.io/Portfolio/)
 
 </td>
 </tr>
@@ -259,7 +214,8 @@ A personal website where I showcase my work, skills, interests, and progress as 
 
 <h2> // GITHUB_METRICS </h2>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=theemcool&show_icons=true&hide_border=true&bg_color=030605&title_color=00FF88&icon_color=00D9FF&text_color=E8FFF4&ring_color=00FF88" alt="GitHub statistics"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theemcool&layout=compact&hide_border=true&bg_color=030605&title_color=00FF88&text_color=E8FFF4" alt="Most-used programming languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=theemcool&show_icons=true&hide_border=true&bg_color=030605&title_color=00FF88&icon_color=00D9FF&text_color=E8FFF4&ring_color=00FF88" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theemcool&layout=compact&hide_border=true&bg_color=030605&title_color=00FF88&text_color=E8FFF4" alt="Most-used languages"/>
 
 <br/><br/>
 
@@ -277,19 +233,19 @@ A personal website where I showcase my work, skills, interests, and progress as 
 <tr>
 <td width="58%" valign="top">
 
-<h3>◉ // WHAT I'M WORKING TOWARDS</h3>
+<h3>◉ // CURRENT_MISSION</h3>
 
-- Getting stronger at software engineering fundamentals.
-- Building more complete, practical applications.
-- Writing better APIs and tests.
-- Learning more about AI systems and evaluation.
-- Exploring cloud engineering and cybersecurity.
-- Contributing to projects that solve real problems.
+- Strengthen my software engineering fundamentals.
+- Build more complete applications.
+- Write cleaner APIs and better tests.
+- Learn more about AI systems and evaluation.
+- Explore cloud engineering and cybersecurity.
+- Contribute to useful projects.
 
 </td>
 <td width="42%" valign="top">
 
-<h3>◈ // MY APPROACH</h3>
+<h3>◈ // DEVELOPER_MINDSET</h3>
 
 ```text
 01. Stay curious.
@@ -299,7 +255,7 @@ A personal website where I showcase my work, skills, interests, and progress as 
 05. Repeat.
 ```
 
-<strong>Progress over perfection.</strong>
+**Progress over perfection.**
 
 </td>
 </tr>
@@ -309,12 +265,14 @@ A personal website where I showcase my work, skills, interests, and progress as 
 
 <br/>
 
-<img src="https://img.shields.io/badge/ROOT@THEEMCOOL-~/BUILD--LEARN--REPEAT-030605?style=for-the-badge&labelColor=003B29&color=00FF88" alt="Build, learn and repeat"/>
+<img src="https://img.shields.io/badge/ROOT%40THEEMCOOL-BUILD--LEARN--REPEAT-00FF88?style=for-the-badge&labelColor=030605" alt="Build, learn and repeat"/>
 
 <br/><br/>
 
-<em>Not just a developer. A problem solver.</em>
+**NOT JUST A DEVELOPER. A PROBLEM SOLVER.**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:00FF88,40:006B4B,75:003B29,100:030605" alt="Neon green footer"/>
+
+<sub>Built with curiosity, code, and a willingness to keep learning.</sub>
 
 </div>
