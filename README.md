@@ -1,3 +1,4 @@
+![Hacker Banner](assets/hacker-banner.png)
 
 <!-- ===================================================== -->
 <!-- THEEMCOOL | BLACKOUT TERMINAL                         -->
