@@ -179,7 +179,8 @@ My personal website showcasing my work, technical skills, and development journe
 <img
   width="100%"
   alt="GitHub contribution snake"
-  src="https://raw.githubusercontent.com/theemcool/theemcool/output/github-contribution-grid-snake-dark.svg"
+ ![Snake](https://raw.githubusercontent.com/theemcool/theemcool/output/github-contribution-grid-snake-dark.svg)
+
 />
 
 </div>
