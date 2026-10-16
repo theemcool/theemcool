@@ -275,4 +275,7 @@ A personal website where I share my projects, skills, and progress as a develope
 
 <sub>Built with curiosity, code, and a willingness to keep learning.</sub>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:00FF88,40:006B4B,75:003B29,100:030605"/>
+
+
 </div>
