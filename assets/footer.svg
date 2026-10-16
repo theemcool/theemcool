@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="36" viewBox="0 0 700 36" role="img" aria-label="theemcool@github: build // learn // create // make an impact">
+<defs>
+<linearGradient id="a" x1="0" x2="1"><stop offset="0" stop-color="#00FF88" stop-opacity="0"/><stop offset="1" stop-color="#00FF88"/></linearGradient>
+<linearGradient id="b" x1="0" x2="1"><stop offset="0" stop-color="#00FF88"/><stop offset="1" stop-color="#00FF88" stop-opacity="0"/></linearGradient>
+</defs>
+<rect x="0" y="17" width="110" height="1.5" fill="url(#a)"/>
+<rect x="590" y="17" width="110" height="1.5" fill="url(#b)"/>
+<text x="350" y="22" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono','Courier New',monospace" font-size="12" fill="#E8FFF4"><tspan fill="#00FF88">theemcool@github:~$</tspan> build <tspan fill="#00D9FF">//</tspan> learn <tspan fill="#00D9FF">//</tspan> create <tspan fill="#00D9FF">//</tspan> make an impact<tspan fill="#00FF88">_<animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></tspan></text>
+</svg>

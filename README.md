@@ -1,97 +1,55 @@
 
-![Hacker Banner](assets/hacker-banner.png)
+<!-- ===================================================== -->
+<!-- THEEMCOOL // BLACKOUT TERMINAL x NEON MATRIX          -->
+<!-- Palette: #030605 #080D0B #003B29 #00FF88 #00D9FF      -->
+<!-- Assets: assets/                                       -->
+<!-- ===================================================== -->
 
-<div align="center">
-
-<img width="100%" alt="THEEMCOOL — Think, Build, Improve, Repeat" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:030605,35:003B29,70:006B4B,100:00FF88&text=THEEMCOOL&fontSize=66&fontColor=E8FFF4&fontAlignY=36&desc=THINK%20%2F%2F%20BUILD%20%2F%2F%20IMPROVE%20%2F%2F%20REPEAT&descAlignY=58&descSize=15"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=650&height=45&lines=%3E+Welcome+to+my+digital+workspace...;%3E+Software+Engineering+%7C+AI+%7C+Web;%3E+Learning+by+building+real+projects;%3E+Not+just+a+developer.+A+problem+solver." alt="Animated developer introduction"/>
+<img width="100%" alt="THEEMCOOL - Think, build, improve, repeat. Not just a developer, a problem solver." src="assets/hacker-banner.png"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-ALWAYS_LEARNING-00FF88?style=for-the-badge&labelColor=030605" alt="Always learning"/>
-<img src="https://img.shields.io/badge/FOCUS-SOFTWARE_%2B_AI-00D9FF?style=for-the-badge&labelColor=030605" alt="Software and AI"/>
-<img src="https://komarev.com/ghpvc/?username=theemcool&style=for-the-badge&color=00FF88&label=PROFILE+VISITS" alt="Profile visits"/>
-
-<br/><br/>
-
-<a href="https://theemcool.github.io/Portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-00FF88?style=flat-square&labelColor=030605" alt="Portfolio"/></a>
-<a href="https://github.com/theemcool?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-00D9FF?style=flat-square&labelColor=030605" alt="Repositories"/></a>
-<a href="https://linkedin.com/in/humphrey-nandwa-966670439"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00FF88?style=flat-square&labelColor=030605" alt="LinkedIn"/></a>
-<a href="mailto:nandwah7@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SAY_HELLO-00D9FF?style=flat-square&labelColor=030605" alt="Email"/></a>
-
-</div>
-
----
-
 <table>
 <tr>
-<td width="36%" valign="top">
+<td width="30%" valign="top">
 
-<h3>◈ // ABOUT ME</h3>
+<img src="assets/h-about.svg" width="100%" alt="About me"/>
 
-Hey, I'm **Humphrey Nandwa** — also known as `theemcool`.
+Software Engineering trainee at **Moringa School** and Computer Science undergraduate at **Cooperative University of Kenya (CUK)**.
 
-I'm a Computer Science undergraduate at the Cooperative University of Kenya and a Software Engineering trainee at Moringa School.
+I'm passionate about building practical software, exploring AI, and creating digital experiences that solve real problems.
 
-I enjoy building things, solving problems, and learning how technology can make everyday tasks easier. Most of my learning happens by experimenting with code and working on practical projects.
+🎓 **Moringa School**  
+<sub>Software Engineering Trainee</sub>
 
-<h3>◈ // EDUCATION</h3>
+🎓 **Cooperative University of Kenya**  
+<sub>BSc Computer Science</sub>
 
-**Cooperative University of Kenya**
+<img src="assets/h-interests.svg" width="100%" alt="Interests"/>
 
-BSc Computer Science
-
-**Moringa School**
-
-Software Engineering training focused on programming and practical software development.
-
-<h3>◈ // INTERESTS</h3>
-
-`AI & Machine Learning`
-
-`Web Development`
-
-`Cloud Engineering`
-
-`Cybersecurity`
-
-`UI/UX Design`
-
-<h3>◈ // CONNECT</h3>
-
-- [GitHub](https://github.com/theemcool)
-- [Portfolio](https://theemcool.github.io/Portfolio/)
-- [LinkedIn](https://linkedin.com/in/humphrey-nandwa-966670439)
-- [Email](mailto:nandwah7@gmail.com)
-
-</td>
-<td width="64%" valign="top">
-
-<h3>▣ // TERMINAL_SESSION</h3>
-
-```bash
-┌──[theemcool@github]─[~/profile]
-│
-├─$ whoami
-│  Humphrey Nandwa
-│
-├─$ cat interests.txt
-│  Software Engineering
-│  Artificial Intelligence
-│  Web Development
-│  Cybersecurity
-│
-├─$ cat philosophy.txt
-│  Learn by doing.
-│  Build with purpose.
-│  Improve every day.
-│
-└─$ echo "Keep going."
-   Keep going. _
+```text
+> AI & Machine Learning
+> Cloud Engineering
+> Cybersecurity
+> Web Development
+> UI/UX Design
 ```
 
-<h3>⌘ // TECH STACK</h3>
+<img src="assets/h-connect.svg" width="100%" alt="Connect"/>
+
+**GitHub** · [theemcool](https://github.com/theemcool)  
+**Portfolio** · [Visit my website](https://theemcool.github.io/Portfolio/)  
+**Email** · [nandwah7@gmail.com](mailto:nandwah7@gmail.com)  
+**LinkedIn** · [Humphrey Nandwa](https://linkedin.com/in/humphrey-nandwa-966670439)
+
+`> Always learning...`
+
+</td>
+<td width="70%" valign="top">
+
+<img src="assets/hero.svg" width="100%" alt="Developer profile hero banner"/>
+
+<img src="assets/h-stack.svg" width="100%" alt="Tech stack"/>
 
 **Languages & Databases**
 
@@ -101,153 +59,151 @@ Software Engineering training focused on programming and practical software deve
 
 <img src="https://skillicons.dev/icons?i=react,vite,flask,html,css&theme=dark" alt="React, Vite, Flask, HTML and CSS"/>
 
-**Developer Tools**
+**Tools & Technologies**
 
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" alt="Git, GitHub, Linux and VS Code"/>
-
-<h3>⌁ // MY APPROACH</h3>
-
-I believe the best way to learn software development is to build things, make mistakes, figure out what went wrong, and try again. Every project gives me a chance to improve.
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-<div align="center">
-
-<h2> // PROJECT_DATABASE </h2>
-
-<em>Projects I've worked on, explored, or used to practise new skills.</em>
-
-</div>
+<img src="assets/h-projects.svg" width="100%" alt="Featured projects"/>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>◈ ElimuAI</h3>
+### ◈ [ElimuAI](https://github.com/theemcool?tab=repositories)
 
-**AI-powered learning**
-
-An EdTech concept exploring how AI can help students access explanations, study materials, and affordable learning support.
+An AI-powered EdTech concept focused on making learning support more accessible and affordable for students in Kenya and across Africa.
 
 `AI` `EdTech` `Education`
 
-[Explore my repositories →](https://github.com/theemcool?tab=repositories)
-
 </td>
 <td width="50%" valign="top">
 
-<h3>◈ Wordly</h3>
+### ◈ [Wordly](https://github.com/hum2006/wordly)
 
-**Dictionary application**
-
-A project focused on word meanings and vocabulary, built as part of my journey into application development.
+A dictionary application designed to support vocabulary development and make discovering word meanings easier.
 
 `Application` `Learning`
 
-[View source code →](https://github.com/hum2006/wordly)
-
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<h3>◈ E-Commerce Admin Portal</h3>
+### ◈ [E-Commerce Admin Portal](https://github.com/darktotem/e-commerce-administrator-portal)
 
-**E-commerce dashboard**
-
-A collaborative React project focused on administrative tools and e-commerce management workflows.
+A React-based dashboard project focused on managing e-commerce operations through an administrative interface.
 
 `React` `JavaScript` `Dashboard`
 
-[View repository →](https://github.com/darktotem/e-commerce-administrator-portal)
-
 </td>
 <td width="50%" valign="top">
 
-<h3>◈ Inventory Management System</h3>
+### ◈ [Inventory Management System](https://github.com/theemcool?tab=repositories)
 
-**Flask REST API**
-
-A Python project for practising inventory operations, API endpoints, JSON storage, external API integration, and automated testing.
+A Python and Flask REST API for managing inventory, with JSON-based storage and automated tests.
 
 `Python` `Flask` `REST API`
-
-[Browse my repositories →](https://github.com/theemcool?tab=repositories)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<h3>◈ Airline Management System</h3>
+### ◈ Airline Management System
 
-**Application development with C#**
-
-A project involving passenger workflows and database integration.
+A C# project focused on passenger workflows and database integration.
 
 `C#` `Database`
 
 </td>
 <td width="50%" valign="top">
 
-<h3>◈ Personal Portfolio</h3>
+### ◈ [Personal Portfolio](https://theemcool.github.io/Portfolio/)
 
-**My work, in one place**
-
-A personal website where I share my projects, skills, and progress as a developer.
+My personal website showcasing my work, technical skills, and development journey.
 
 `Frontend` `Web Design`
-
-[Visit portfolio →](https://theemcool.github.io/Portfolio/)
 
 </td>
 </tr>
 </table>
 
----
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img src="assets/h-stats.svg" width="100%" alt="GitHub stats"/>
+
+<img
+  width="100%"
+  alt="GitHub statistics"
+  src="https://github-readme-stats.vercel.app/api?username=theemcool&show_icons=true&hide_border=true&hide_title=true&bg_color=030605&title_color=00FF88&icon_color=00D9FF&text_color=E8FFF4&ring_color=00FF88&include_all_commits=true"
+/>
+
+</td>
+<td width="50%" valign="top">
+
+<img src="assets/h-langs.svg" width="100%" alt="Top languages"/>
+
+<img
+  width="100%"
+  alt="Most-used languages"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=theemcool&layout=compact&hide_border=true&hide_title=true&langs_count=6&bg_color=030605&title_color=00FF88&text_color=E8FFF4"
+/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="assets/h-streak.svg" width="100%" alt="Contributions"/>
 
 <div align="center">
 
-<h2> // GITHUB_METRICS </h2>
+<img
+  width="98%"
+  alt="GitHub contribution streak"
+  src="https://streak-stats.demolab.com/?user=theemcool&hide_border=true&background=030605&ring=00FF88&fire=00D9FF&currStreakLabel=00FF88&sideLabels=00D9FF&currStreakNum=E8FFF4&sideNums=E8FFF4&dates=91A69C"
+/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=theemcool&show_icons=true&hide_border=true&bg_color=030605&title_color=00FF88&icon_color=00D9FF&text_color=E8FFF4&ring_color=00FF88" alt="GitHub statistics"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theemcool&layout=compact&hide_border=true&bg_color=030605&title_color=00FF88&text_color=E8FFF4" alt="Most-used languages"/>
-
-<br/><br/>
-
-<img width="95%" src="https://streak-stats.demolab.com/?user=theemcool&hide_border=true&background=030605&ring=00FF88&fire=00D9FF&currStreakLabel=00FF88&sideLabels=00D9FF&currStreakNum=E8FFF4&sideNums=E8FFF4&dates=91A69C" alt="GitHub contribution streak"/>
-
-<br/><br/>
-
-![GitHub Snake Light](https://github.com/theemcool/theemcool/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://github.com/theemcool/theemcool/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
+<!-- Requires the Platane/snk GitHub Action to generate the output branch. -->
+<img
+  width="100%"
+  alt="GitHub contribution snake"
+  src="https://raw.githubusercontent.com/theemcool/theemcool/output/github-contribution-grid-snake-dark.svg"
+/>
 
 </div>
 
----
+<br/>
 
 <table>
 <tr>
 <td width="58%" valign="top">
 
-<h3>◉ // CURRENT_MISSION</h3>
+<img src="assets/h-mission.svg" width="100%" alt="Current mission"/>
 
-- Strengthen my software engineering fundamentals.
-- Build more complete applications.
-- Write cleaner APIs and better tests.
-- Learn more about AI systems and evaluation.
-- Explore cloud engineering and cybersecurity.
-- Contribute to useful projects.
+- [x] Strengthen software engineering skills
+- [x] Build practical projects
+- [x] Learn about AI systems and evaluation
+- [x] Improve frontend and backend development
+- [x] Explore cloud engineering and cybersecurity
+
+**STATUS:** `Always learning...`
 
 </td>
 <td width="42%" valign="top">
 
-<h3>◈ // DEVELOPER_MINDSET</h3>
+<img src="assets/h-mindset.svg" width="100%" alt="Developer mindset"/>
 
 ```text
 01. Stay curious.
@@ -263,21 +219,10 @@ A personal website where I share my projects, skills, and progress as a develope
 </tr>
 </table>
 
-<div align="center">
-
 <br/>
 
-<img src="https://img.shields.io/badge/ROOT%40THEEMCOOL-BUILD--LEARN--REPEAT-00FF88?style=for-the-badge&labelColor=030605" alt="Build, learn and repeat"/>
+<div align="center">
 
-<br/><br/>
-
-**NOT JUST A DEVELOPER. A PROBLEM SOLVER.**
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:00FF88,40:006B4B,75:003B29,100:030605" alt="Neon green footer"/>
-
-<sub>Built with curiosity, code, and a willingness to keep learning.</sub>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:00FF88,40:006B4B,75:003B29,100:030605"/>
-
+<img src="assets/footer.svg" width="100%" alt="theemcool at GitHub — build, learn, create, make an impact"/>
 
 </div>

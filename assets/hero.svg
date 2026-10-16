@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="240" viewBox="0 0 700 240" role="img" aria-label="theemcool - Better Code. Bigger Impact.">
+<defs>
+<filter id="glow" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<radialGradient id="bg" cx="0.65" cy="0.4" r="0.8"><stop offset="0" stop-color="#003B29" stop-opacity="0.8"/><stop offset="1" stop-color="#030605"/></radialGradient>
+<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1.2" fill="#00FF88" opacity="0.5"/></pattern>
+</defs>
+<rect x="1" y="1" width="698" height="238" rx="10" fill="url(#bg)" stroke="#00FF88" stroke-opacity="0.55"/>
+
+<text x="26" y="64" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono','Courier New',monospace" font-size="44" font-weight="700" fill="#00FF88" filter="url(#glow)">theemcool</text>
+
+<rect x="24" y="82" width="330" height="98" rx="4" fill="#080D0B" fill-opacity="0.85" stroke="#00FF88" stroke-opacity="0.35"/>
+<g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono','Courier New',monospace" font-size="10" fill="#E8FFF4">
+<text x="36" y="106" opacity="0"><tspan fill="#00FF88">&gt;</tspan> Initializing developer profile...<animate attributeName="opacity" from="0" to="1" begin="0.3s" dur="0.4s" fill="freeze"/></text>
+<text x="36" y="128" opacity="0"><tspan fill="#00FF88">&gt;</tspan> Loading modules: skills, projects, experience...<animate attributeName="opacity" from="0" to="1" begin="1.2s" dur="0.4s" fill="freeze"/></text>
+<text x="36" y="150" opacity="0"><tspan fill="#00FF88">&gt;</tspan> Access granted.<animate attributeName="opacity" from="0" to="1" begin="2.2s" dur="0.4s" fill="freeze"/></text>
+<text x="36" y="170" opacity="0" fill="#00FF88">&gt; _<animate attributeName="opacity" values="1;0;1" dur="1s" begin="3s" repeatCount="indefinite"/></text>
+</g>
+
+<text x="26" y="215" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono','Courier New',monospace" font-size="12" fill="#91A69C">Software Engineering <tspan fill="#00FF88">|</tspan> AI Enthusiast <tspan fill="#00FF88">|</tspan> Tech Explorer</text>
+
+<g filter="url(#glow)">
+<path d="M450 36 C420 36 400 66 395 102 C390 138 372 160 362 204 L538 204 C528 160 510 138 505 102 C500 66 480 36 450 36 Z" fill="url(#scan)" stroke="#00FF88" stroke-width="1.6"/>
+<ellipse cx="450" cy="92" rx="24" ry="32" fill="#030605" stroke="#00FF88" stroke-opacity="0.6" stroke-dasharray="3 3"/>
+<path d="M395 102 C410 120 425 128 450 128 C475 128 490 120 505 102" fill="none" stroke="#00FF88" stroke-opacity="0.5"/>
+</g>
+
+<g stroke="#00FF88" stroke-width="1.5" fill="none" opacity="0.9">
+<path d="M574 78 H566 V70 M674 78 V70 H666" transform="translate(0 0)"/>
+<path d="M566 166 V174 H574 M666 174 H674 V166"/>
+</g>
+<g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono','Courier New',monospace" font-size="15" font-weight="600" fill="#00FF88">
+<text x="582" y="100">&#8220;Better</text>
+<text x="582" y="122">Code.</text>
+<text x="582" y="144">Bigger</text>
+<text x="582" y="166">Impact.&#8221;</text>
+</g>
+</svg>
