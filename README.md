@@ -223,7 +223,8 @@ A personal website where I share my projects, skills, and progress as a develope
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=theemcool&theme=matrix&no-frame=true&margin-w=15" alt="GitHub trophies"/>
+![GitHub Snake Light](https://github.com/theemcool/theemcool/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/theemcool/theemcool/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 
 </div>
