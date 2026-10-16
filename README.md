@@ -1,7 +1,6 @@
-
 <!-- ===================================================== -->
 <!-- THEEMCOOL // BLACKOUT TERMINAL x NEON MATRIX          -->
-<!-- Palette: #030605 #080D0B #003B29 #00FF88 #00D9FF      -->
+<!-- Palette: #030605 #080D0B #003B29 #00FF88 #00D9FF       -->
 <!-- Assets: assets/                                       -->
 <!-- ===================================================== -->
 
@@ -175,13 +174,7 @@ My personal website showcasing my work, technical skills, and development journe
   src="https://streak-stats.demolab.com/?user=theemcool&hide_border=true&background=030605&ring=00FF88&fire=00D9FF&currStreakLabel=00FF88&sideLabels=00D9FF&currStreakNum=E8FFF4&sideNums=E8FFF4&dates=91A69C"
 />
 
-<!-- Requires the Platane/snk GitHub Action to generate the output branch. -->
-<img
-  width="100%"
-  alt="GitHub contribution snake"
- ![Snake](https://raw.githubusercontent.com/theemcool/theemcool/output/github-contribution-grid-snake-dark.svg)
-
-/>
+![Snake](https://raw.githubusercontent.com/theemcool/theemcool/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
