@@ -223,7 +223,8 @@ A personal website where I share my projects, skills, and progress as a develope
 
 <br/><br/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=theemcool&bg_color=030605&color=00FF88&line=00FF88&point=E8FFF4&area=true&hide_border=true&title_color=00FF88" alt="GitHub contribution activity"/>
+<img src="https://github-profile-trophy.vercel.app/?username=theemcool&theme=matrix&no-frame=true&margin-w=15" alt="GitHub trophies"/>
+
 
 </div>
 
